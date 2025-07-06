@@ -14,7 +14,6 @@
     <img src="https://img.shields.io/badge/English%20Level-B2-blue?style=for-the-badge" />
   </a>
 </p>
----
 
 ## 👋 Sobre mí
 
