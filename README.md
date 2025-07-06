@@ -22,7 +22,6 @@ Me apasiona construir soluciones completas, manteniendo un enfoque limpio y esca
 🔸 **Frontend y Backend**, trabajando con tecnologías modernas.  
 🔸 Siempre listo para enfrentar desafíos reales y colaborar en equipo.
 
----
 
 ## 🧠 Stack Técnico
 
