@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Ignacio Martinez
 
-<!--
-**martinezdap25/martinezdap25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer | Higher Technician in Programming  
+📍 Based in Argentina | Open to remote opportunities
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack
+- **Languages:** JavaScript, TypeScript
+- **Backend:** Node.js, Express, PostgreSQL, MySQL, MongoDB
+- **Frontend:** React, HTML, CSS, Bootstrap
+- **Tools:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Contact Me
+- Email: your.email@example.com
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+
