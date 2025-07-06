@@ -72,16 +72,16 @@ Me apasiona construir soluciones completas, manteniendo un enfoque limpio y esca
 ## 🚧 Proyecto en desarrollo
 
 Estoy trabajando actualmente con un equipo en un nuevo proyecto.
-[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://link-al-deploy)
+Deploy: [![Servicio Libre](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://serviciolibre.vercel.app)
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=martinezdap25&show_icons=true&theme=radical&hide_border=true&count_private=true&hide_title=true" width="90%" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinezdap25&layout=compact&theme=radical&hide_border=true&langs_count=6" width="70%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=martinezdap25&show_icons=true&theme=radical&hide_border=true&count_private=true&hide_title=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinezdap25&layout=compact&theme=radical&hide_border=true&langs_count=6" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=martinezdap25&theme=radical&hide_border=true" width="80%" />
 </p>
 
 ---
