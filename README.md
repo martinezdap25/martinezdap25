@@ -92,7 +92,7 @@ Podés ver el progreso acá:
 
 - **📧 Email:** martinezignaciodev@gmail.com  
 - **🌐 GitHub:** [@martinezdap25](https://github.com/martinezdap25)  
-- **💼 LinkedIn:** _[Agregar enlace si lo tenés]_  
+- **💼 LinkedIn:** [Ignacio Martínez](https://www.linkedin.com/in/ignacio-martinez-b44885248/)  
 - **🇬🇧 Inglés:** Nivel B2 (certificado [EFSET](https://cert.efset.org/es/wJGgSG))
 
 ---
