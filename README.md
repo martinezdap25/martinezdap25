@@ -7,9 +7,6 @@
   <a href="mailto:martinezignaciodev@gmail.com">
     <img src="https://img.shields.io/badge/email-martinezignaciodev@gmail.com-red?style=for-the-badge" />
   </a>
-  <a href="https://github.com/martinezdap25">
-    <img src="https://img.shields.io/badge/GitHub-martinezdap25-181717?logo=github&logoColor=white&style=for-the-badge" />
-  </a>
   <a href="https://cert.efset.org/es/wJGgSG">
     <img src="https://img.shields.io/badge/English%20Level-B2-blue?style=for-the-badge" />
   </a>
