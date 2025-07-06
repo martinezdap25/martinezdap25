@@ -74,7 +74,7 @@ Me apasiona construir soluciones completas, manteniendo un enfoque limpio y esca
 <p>
   Estoy trabajando actualmente con un equipo en un nuevo proyecto.
 </p>
-Deploy: [![Servicio Libre](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://serviciolibre.vercel.app)
+👉 Podés ver el progreso acá: [Servicio Libre](https://serviciolibre.vercel.app)
 
 ---
 
