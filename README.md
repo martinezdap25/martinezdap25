@@ -69,13 +69,19 @@ Me apasiona construir soluciones completas, manteniendo un enfoque limpio y esca
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?logo=spring&logoColor=white)
 ![Git Flow](https://img.shields.io/badge/GitFlow-F05032?logo=git&logoColor=white)
 
+## 🚧 Proyecto en desarrollo
+
+Estoy trabajando actualmente con un equipo en un nuevo proyecto.
+[![Live Demo](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://link-al-deploy)
+
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=martinezdap25&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinezdap25&layout=compact&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=martinezdap25&show_icons=true&theme=radical&hide_border=true&count_private=true&hide_title=true" width="90%" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinezdap25&layout=compact&theme=radical&hide_border=true&langs_count=6" width="70%" />
 </p>
 
 ---
