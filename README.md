@@ -12,6 +12,8 @@
   </a>
 </p>
 
+---
+
 ## 👋 Sobre mí
 
 Desarrollador Full Stack con sólida formación académica y técnica.  
@@ -22,44 +24,50 @@ Me apasiona construir soluciones completas, manteniendo un enfoque limpio y esca
 🔸 **Frontend y Backend**, trabajando con tecnologías modernas.  
 🔸 Siempre listo para enfrentar desafíos reales y colaborar en equipo.
 
+---
 
 ## 🧠 Stack Técnico
 
-**Lenguajes:**  
-JavaScript · TypeScript · Java · PHP · Python · SQL
+### 🧾 Lenguajes
 
-**Frontend:**  
-React · Bootstrap · Tailwind CSS
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
 
-**Backend:**  
-Node.js · Express · Laravel · Livewire
+### 🎨 Frontend
 
-**Bases de Datos:**  
-PostgreSQL · MySQL · MongoDB
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white)
 
-**Herramientas:**  
-Git · Docker · Jira · Confluence · Slack
+### 🛠️ Backend
 
-**Metodologías:**  
-Scrum · Git Flow
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-E74430?logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E5D94?logo=laravel&logoColor=white)
 
----
+### 🗃️ Bases de Datos
 
-## 💼 Proyectos Destacados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 
-### 🐾 PetShop E-commerce (Proyecto final - Grupo)
-**Laravel + Livewire + Tailwind + MySQL**
+### ⚙️ Herramientas & DevOps
 
-- Lideré el equipo y coordiné el desarrollo.
-- Modelé la base de datos y optimicé procesos de venta.
-- Interfaces responsivas con gran experiencia de usuario.
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
+![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
 
-### 🛍️ E-commerce API (Proyecto individual)
-**Node.js + Express + Sequelize + JWT + Swagger**
+### 🧩 Metodologías
 
-- Desarrollo completo de backend RESTful.
-- Autenticación con JWT y contraseñas encriptadas.
-- Documentación OpenAPI y entorno escalable.
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?logo=spring&logoColor=white)
+![Git Flow](https://img.shields.io/badge/GitFlow-F05032?logo=git&logoColor=white)
 
 ---
 
