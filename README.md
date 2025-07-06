@@ -82,7 +82,7 @@ Podés ver el progreso acá:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=martinezdap25&show_icons=true&theme=radical&hide_border=true&count_private=true&hide_title=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinezdap25&layout=compact&theme=radical&hide_border=true&langs_count=6" width="42%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=martinezdap25&layout=compact&theme=radical&hide_border=true&langs_count=6" width="43%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=martinezdap25&theme=radical&hide_border=true" width="80%" />
 </p>
 
