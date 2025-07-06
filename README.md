@@ -71,7 +71,9 @@ Me apasiona construir soluciones completas, manteniendo un enfoque limpio y esca
 
 ## 🚧 Proyecto en desarrollo
 
-Estoy trabajando actualmente con un equipo en un nuevo proyecto.
+<p>
+  Estoy trabajando actualmente con un equipo en un nuevo proyecto.
+</p>
 Deploy: [![Servicio Libre](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://serviciolibre.vercel.app)
 
 ---
