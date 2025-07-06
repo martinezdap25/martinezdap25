@@ -74,7 +74,7 @@ Me apasiona construir soluciones completas, manteniendo un enfoque limpio y esca
 Actualmente estoy trabajando en un sistema de gestión junto a un equipo.  
 Podés ver el progreso acá:
 
-[![Ver proyecto](https://img.shields.io/badge/Live-Demo-blue?style=for-the-badge)](https://serviciolibre.vercel.app)
+[![Abrir Servicio Libre](https://img.shields.io/badge/Servicio%20Libre-Ver%20online-blue?style=for-the-badge)](https://serviciolibre.vercel.app)
 
 ---
 
